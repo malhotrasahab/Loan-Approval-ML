@@ -1,2 +1,2 @@
 # Loan-Approval-ML
-View the notebook in Google Colab: https://colab.research.google.com/drive/1p_w783Mvh25QwBejLxuP1XqVDGLrRGHQ?usp=sharing
+View the notebook in Google Colab: https://colab.research.google.com/drive/1qG5HqYXNNkRSrYiW8R4KNYVOVxSq0DIw?usp=sharing
